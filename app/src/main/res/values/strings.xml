@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SameApp</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+    <string name="app_logo">Different locations, different positions.</string>
+    <string name="app_logo2">Same company, SAME chat.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="same">SAME</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_a_new_contact">Add a New Contact</string>
+    <string name="send">Send</string>
+    <string name="click_here">Click Here</string>
+    <string name="BaseUrl">http://10.0.2.2:7001/</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="choose_profile_picture">Choose Profile Picture</string>
+    <string name="nickname">NickName</string>
+    <string name="server">Server</string>
+    <string name="same_app">SAME</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="june_10">June 10</string>
+    <string name="this_is_a_message">This is a Message</string>
+    <string name="_10_00">10:00</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
